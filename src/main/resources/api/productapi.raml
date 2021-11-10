@@ -1,0 +1,15 @@
+#%RAML 1.0
+title: ProductApi
+/product:
+  get:
+    responses:
+      200:
+        body:
+          application/json:
+            example:
+              {
+                "ProductId": 1234,
+                "Producename": "Mobile",
+                "ProductOwner": "Jagadish",
+                "Price": 10000
+              }
