@@ -128,8 +128,8 @@ output application/json
 ---
 {
   ProductId: 1234,
-  Producename: "Mobile",
-  ProductOwner: "Jagadish Elugoti",
+  Producename: "Mobile Sony",
+  ProductOwner: "Jagadish Eugoti",
   Price: 10000
 }]]></ee:set-payload>
             </ee:message>
